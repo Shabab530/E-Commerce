@@ -17,7 +17,7 @@
 
       <a href="../admin/dashboard.php" class="logo">
            <img src="../images/logo.jpg" alt="Logo" style="height: 30px; vertical-align: middle; margin-right: 8px;">
-           <span>MAS </span>Mobile Accessories<span>.</span>
+           <span>MAS </span>Mobile & Smart Accessories<span>.</span>
       </a>
 
       <nav class="navbar">
@@ -46,5 +46,6 @@
       </div>
 
    </section>
+
 
 </header>
