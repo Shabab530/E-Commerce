@@ -77,7 +77,7 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
+            <i class="fas fa-star"></i>
          </div>
          <h3>Mehedi Akram Shabab</h3>
       </div>
@@ -102,10 +102,22 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
          <h3>Kim Hung</h3>
+      </div>
+
+      <div class="swiper-slide slide">
+         <img src="images/pic-4.png" alt="">
+         <p>In a market often saturated with generic options, the promise to help customers "reflect your unique style" is a significant draw. This suggests that MAS understands that a smartphone is not just a tool but an extension of one's personality. We can anticipate finding a diverse range of designs, colors, and materials that allow users to truly personalize their devices, moving beyond mere functionality to genuine aesthetic appeal.</p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Jecyka</h3>
       </div>
 
    </div>
