@@ -79,7 +79,7 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Mehedi Akram Shabab</h3>
       </div>
 
       <div class="swiper-slide slide">
@@ -92,7 +92,7 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Jemima Rahman Mim</h3>
       </div>
 
       <div class="swiper-slide slide">
@@ -105,7 +105,7 @@ if(isset($_SESSION['user_id'])){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Kim Hung</h3>
       </div>
 
    </div>
