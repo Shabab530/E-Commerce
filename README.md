@@ -6,7 +6,7 @@ This project includes user authentication, product management, cart, wishlist, o
 ---
 
 ## 📂 Project Structure
-
+User Panel
 * **User Auth:** `user_login.php`, `user_register.php`, `update_user.php`
 * `about.php` – About page
 * `cart.php` – Shopping cart page
