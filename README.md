@@ -24,6 +24,8 @@ This project includes user authentication, product management, cart, wishlist, o
 * `shop.php` – Shop page (all products)
 * `wishlist.php` – Wishlist management
 
+---
+
 * **Before accessing Admin Auth, You Have to put `admin/admin_login.php` in the URL Section**
 * `admin_login.php` → Admin login page
 * `admin_dashboard.php` → Dashboard (overview of orders, products, etc.)
@@ -33,10 +35,14 @@ This project includes user authentication, product management, cart, wishlist, o
 * `admin_contacts.php` → View customer messages from the contact form
 * `admin_style.css` → Stylesheet for the admin panel
 
+---
+
 * **Components:**
 * `header.php` - Header layout components
 * `footer.php` - Footer layout components
 * `connect.php` - Database
+
+---
 
 * **CSS**
 * `admin_style.css` - Stylesheet for the admin panel
