@@ -6,8 +6,11 @@ This project includes user authentication, product management, cart, wishlist, o
 ---
 
 ## 📂 Project Structure
-User Panel
-* **User Auth:** `user_login.php`, `user_register.php`, `update_user.php`
+
+**User Panel:**
+* `user_login.php` - User login
+* `user_register.php` - User register
+* `update_user.php` - User Profile Update
 * `about.php` – About page
 * `cart.php` – Shopping cart page
 * `category.php` – Category-based product listing
@@ -21,9 +24,23 @@ User Panel
 * `shop.php` – Shop page (all products)
 * `wishlist.php` – Wishlist management
 
-Before Access into Admin Auth You Have to Put `admin/admin_login.php` in URL Section
-* **Admin Panel:** Located in `admin/` folder (Dashboard, Products, Orders, Users, Messages)
-* **Components:** `header.php`, `footer.php`, `connect.php`
+* **Before accessing Admin Auth, You Have to put `admin/admin_login.php` in the URL Section**
+* `admin_login.php` → Admin login page
+* `admin_dashboard.php` → Dashboard (overview of orders, products, etc.)
+* `admin_products.php` → Add, Update, Delete products
+* `admin_orders.php` → Manage customer orders
+* `admin_users.php` → Manage registered users
+* `admin_contacts.php` → View customer messages from the contact form
+* `admin_style.css` → Stylesheet for the admin panel
+
+* **Components:**
+* `header.php` - Header layout components
+* `footer.php` - Footer layout components
+* `connect.php` - Database
+
+* **CSS**
+* `admin_style.css` - Stylesheet for the admin panel
+* `style.css` - Stylesheet for the user panel
 
 ---
 
