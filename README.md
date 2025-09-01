@@ -1,9 +1,3 @@
-Great 👍 I explored your project structure. It looks like a **PHP + MySQL E-Commerce Website** with both **user** and **admin panels**.
-
-Here’s a **README.md** file for your project:
-
----
-
 # 🛒 E-Commerce Website
 
 A simple **E-Commerce Website** built with **PHP, MySQL, HTML, CSS, and JavaScript**.
@@ -109,12 +103,3 @@ $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
 * API for mobile apps
 
 ---
-
-## 📜 License
-
-This project is for **educational purposes only**.
-You may use and modify it for learning, but please give credit if used publicly.
-
----
-
-👉 Do you want me to also add **sample admin credentials** (like `admin / 1234`) in the README so testing is easier?
