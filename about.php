@@ -42,8 +42,18 @@ if(isset($_SESSION['user_id'])){
       </div>
 
       <div class="content">
-         <h3>why choose us?</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam veritatis minus et similique doloribus? Harum molestias tenetur eaque illum quas? Obcaecati nulla in itaque modi magnam ipsa molestiae ullam consequuntur.</p>
+         <h3>Why choose us?</h3>
+         <p>🔥 Trendy and Innovative: Stay ahead of the tech game with the latest and greatest phone accessories, from trendy cases and screen protectors to wireless chargers and more.</p>
+         <p>🌟 Quality Assurance:
+         We believe in quality over everything. Every product in our inventory undergoes rigorous testing to ensure it meets the highest standards of durability and performance.</p>
+         <p>💼 Style & Functionality:
+         Whether you're a fashion enthusiast or a tech-savvy professional, our range of accessories caters to every taste and need. From sleek and minimalistic designs to rugged and protective gear, we've got you covered.</p>
+         <p>🚢 Shipping:
+         No matter where you are, we'll deliver your favorite accessories right to your doorstep. We offer fast and reliable shipping options to make your shopping experience hassle-free.</p>
+         <p>👍 Customer Satisfaction:
+         Your satisfaction is our priority. Our dedicated customer support team is here to assist you with any questions or concerns you may have.
+         Join the MAS || Mobile Accessories family today and elevate your smartphone game! Explore our catalog, discover exciting deals, and get ready to accessorize your phone like never before.</p>
+         <p>Follow us on social media MAS Mobile Accessories  for the latest updates, exclusive offers, and tech inspiration. Thank you for choosing MAS || Mobile Accessories for all your phone accessory needs! 🙌🛒</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
@@ -61,7 +71,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-1.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
+         <p>In a world where smartphones are extensions of ourselves, finding the right accessories is crucial for both protection and personalization. MAS Mobile Accessories steps into this space with a clear and compelling mission: "to enhance your smartphone experience" by providing "a curated selection of top-quality phone accessories that not only protect and complement your device but also reflect your unique style."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -74,7 +84,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-2.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
+         <p>What immediately stands out about MAS Mobile Accessories is their genuine passion. It’s not just about selling products; it's about enriching how you interact with your device. This holistic approach ensures that every item in their collection is chosen with the end-user experience in mind. They understand that an accessory isn’t just a add-on, but a vital component that can improve functionality.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -87,46 +97,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-3.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
-         </div>
-         <h3>john deo</h3>
-      </div>
-
-      <div class="swiper-slide slide">
-         <img src="images/pic-4.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
-         </div>
-         <h3>john deo</h3>
-      </div>
-
-      <div class="swiper-slide slide">
-         <img src="images/pic-5.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
-         <div class="stars">
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star"></i>
-            <i class="fas fa-star-half-alt"></i>
-         </div>
-         <h3>john deo</h3>
-      </div>
-
-      <div class="swiper-slide slide">
-         <img src="images/pic-6.png" alt="">
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia tempore distinctio hic, iusto adipisci a rerum nemo perspiciatis fugiat sapiente.</p>
+         <p>In an oversaturated market, the phrase "curated selection" is music to a consumer's ears. MAS avoids the pitfalls of overwhelming choice by meticulously selecting their inventory. This commitment to "top-quality" means you can trust that their accessories are built to last and perform effectively. From durable cases that genuinely protect against drops and scratches, to high-performance chargers.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -144,14 +115,6 @@ if(isset($_SESSION['user_id'])){
    </div>
 
 </section>
-
-
-
-
-
-
-
-
 
 <?php include 'components/footer.php'; ?>
 
