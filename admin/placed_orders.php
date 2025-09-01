@@ -12,11 +12,16 @@ if(!isset($admin_id)){
 
 if(isset($_POST['update_payment'])){
    $order_id = $_POST['order_id'];
-   $payment_status = $_POST['payment_status'];
+   $payment_status = $_POST['payment_status'] ?? ''; // null coalescing operator
    $payment_status = filter_var($payment_status, FILTER_SANITIZE_STRING);
-   $update_payment = $conn->prepare("UPDATE `orders` SET payment_status = ? WHERE id = ?");
-   $update_payment->execute([$payment_status, $order_id]);
-   $message[] = 'payment status updated!';
+
+   if(!empty($payment_status)){
+      $update_payment = $conn->prepare("UPDATE `orders` SET payment_status = ? WHERE id = ?");
+      $update_payment->execute([$payment_status, $order_id]);
+      $message[] = 'Payment status updated!';
+   } else {
+      $message[] = 'Please select a payment status!';
+   }
 }
 
 if(isset($_GET['delete'])){
@@ -143,4 +148,5 @@ if(isset($_GET['delete'])){
       select {
          padding: 5px;
       }
+
    </style>
