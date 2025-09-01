@@ -26,6 +26,7 @@ This project includes user authentication, product management, cart, wishlist, o
 
 ---
 
+**Admin Panel**
 * **Before accessing Admin Auth, You Have to put `admin/admin_login.php` in the URL Section**
 * `admin_login.php` → Admin login page
 * `admin_dashboard.php` → Dashboard (overview of orders, products, etc.)
