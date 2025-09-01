@@ -38,14 +38,14 @@ This project includes user authentication, product management, cart, wishlist, o
 
 ---
 
-* **Components:**
+**Components:**
 * `header.php` - Header layout components
 * `footer.php` - Footer layout components
 * `connect.php` - Database
 
 ---
 
-* **CSS**
+**CSS**
 * `admin_style.css` - Stylesheet for the admin panel
 * `style.css` - Stylesheet for the user panel
 
