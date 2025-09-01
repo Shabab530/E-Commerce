@@ -51,6 +51,12 @@ This project includes user authentication, product management, cart, wishlist, o
 
 ---
 
+**JavaScript**
+* `admin_script` - JS for the admin panel
+* `script` - JS for the user panel
+
+---
+
 ## ⚙️ Installation
 
 ### 1️⃣ Requirements
